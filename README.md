@@ -1,103 +1,103 @@
 <div align="center">
 
-# Alex Rodrigues dos Santos
+```
+╔══════════════════════════════════════════════════════════╗
+║         ALEX RODRIGUES DOS SANTOS · BI & ANALYTICS       ║
+║         10 anos de operação → dados que decidem           ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-### Analista de Sistemas & BI | Data Analytics | Business Intelligence
-
-Transformando dados operacionais em decisões estratégicas.
-
-[LinkedIn](https://www.linkedin.com/in/alex-rodrigues-dos-santos-13345aab/) • [Email](mailto:alextdh12@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Rodrigues-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/SEU-PERFIL)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat-square&logo=powerbi&logoColor=black)](https://github.com/roalex21)
+[![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/roalex21)
+[![Cursando](https://img.shields.io/badge/Ciências%20de%20Dados-Graduação%20em%20andamento-8A2BE2?style=flat-square)](https://github.com/roalex21)
 
 </div>
 
 ---
 
-## Sobre Mim
+## `$ whoami`
 
-Profissional com mais de 10 anos de experiência em Logística, Transporte e Operações, especializado na transformação de dados em informação estratégica para suporte à tomada de decisão.
+Sou **Analista de BI & Analytics** com background de **10 anos em Logística e Transporte**.
 
-Minha trajetória profissional começou na operação logística, evoluindo para análise de indicadores, desenvolvimento de dashboards, automação de processos e Business Intelligence.
+Não vim da teoria — vim da operação. Fiz auditorias de frete, treinei equipes de 20 pessoas, acompanhei roteirização de veículos em tempo real e senti na pele o custo de uma decisão baseada em achismo.
 
-Hoje atuo conectando negócio, tecnologia e dados através de soluções analíticas que geram eficiência operacional, visibilidade e melhores resultados para as organizações.
+Foi tentando colocar um mapa logístico dentro do Excel que descobri o Tableau.  
+Foi o Tableau que me apresentou o Power BI.  
+Foi o Power BI que me mostrou que eu era, na verdade, um **profissional de dados**.
 
----
-
-## Especialidades
-
-* Business Intelligence (BI)
-* Power BI
-* SQL
-* Databricks
-* Tableau
-* Looker Studio
-* Modelagem de Dados
-* Automação de Processos
-* Indicadores Operacionais
-* Logística e Transporte
+Hoje atuo como ponte entre **quem opera** e **quem decide** — transformando registros operacionais em inteligência de negócio.
 
 ---
 
-## Stack Tecnológica
+## `$ cat trajetoria.log`
 
-### Analytics & BI
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau\&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
-
-### Dados
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge\&logo=databricks\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Microsoft Ecosystem
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge\&logo=powerautomate\&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge\&logo=powerapps\&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
+```
+2014  →  Analista de Transporte · TMS · SAP · Manhattan · Blender
+2016  →  Treinamento de equipes · Melhoria de processos · KPIs operacionais
+2018  →  Milk Run (Fiat) · Roteirização · Power BI · Dashboards logísticos
+2020  →  Virada: do operacional para o analítico
+2022  →  BI Consultant · Power BI · Tableau · Looker Studio · SQL · Databricks
+2024  →  Graduação em Ciências de Dados · foco em estatística aplicada
+2026  →  Analista de Sistemas & BI · em finalização da graduação
+```
 
 ---
 
-## Destaques da Minha Trajetória
+## `$ ls skills/`
 
-### Logística e Transporte (2014 - 2022)
+### 📊 Visualização & BI
+`Power BI` · `Tableau` · `Looker Studio` · `QlikSense` · `Excel Avançado`
 
-* Desenvolvimento de indicadores operacionais
-* Gestão e análise de transportes
-* Auditoria e pagamento de fretes
-* Treinamento e desenvolvimento de equipes
-* Projetos de roteirização e otimização logística
+### 🛢️ Dados & Engenharia
+`SQL` · `Databricks` · `Power Automate` · `Power Apps` · `RPA`
 
-### Dados e Business Intelligence (2022 - Atual)
+### 🚛 Domínio de Negócio
+`Logística` · `Transporte` · `Roteirização` · `Auditoria de Frete` · `KPIs Operacionais`
 
-* Desenvolvimento de dashboards corporativos
-* Estruturação de indicadores estratégicos
-* Governança e qualidade de dados
-* Automação de processos
-* Suporte à tomada de decisão baseada em dados
+### 🛠️ Sistemas & ERPs
+`SAP` · `Manhattan` · `Blender` · `TMS`
 
 ---
 
-## Projetos em Destaque
+## `$ ls projetos/`
 
-Em breve você encontrará aqui estudos, projetos e cases envolvendo:
-
-* Power BI
-* SQL
-* Databricks
-* Analytics
-* Logística
-* Business Intelligence
-
----
-
-## Formação
-
-🎓 Tecnólogo em Ciências de Dados (em conclusão)
+| Repositório | Descrição | Stack |
+|---|---|---|
+| [`business-cases`](./business-cases) | Cases reais: problema → análise → resultado | Markdown · Power BI |
+| [`power-bi-projects`](./power-bi-projects) | Dashboards logístico, financeiro e executivo | Power BI · DAX |
+| [`sql-for-business`](./sql-for-business) | Análises SQL orientadas a negócio | SQL · CTEs · Window Functions |
+| [`databricks-labs`](./databricks-labs) | Experimentos com dados em escala | Databricks · PySpark |
+| [`portfolio`](./portfolio) | Site profissional (em construção) | HTML · CSS |
 
 ---
 
-## Filosofia Profissional
+## `$ cat diferencial.txt`
 
-"Dados não são apenas números. São registros da realidade, capazes de revelar oportunidades, reduzir desperdícios e orientar decisões mais inteligentes."
+> A maioria dos profissionais de dados sabe mexer em ferramentas.  
+> Poucos sabem **o que perguntar para os dados**.
+
+Passei uma década dentro da operação — entendendo por que uma entrega atrasa, como um processo de coleta falha, onde o custo aparece antes de virar problema.
+
+Esse contexto é o que transforma um dashboard em **decisão**.
+
+---
+
+## `$ contact --info`
+
+```python
+contato = {
+    "linkedin": "linkedin.com/in/SEU-PERFIL",
+    "email":    "SEU-EMAIL@gmail.com",
+    "github":   "github.com/roalex21",
+    "status":   "Aberto a oportunidades em BI, Analytics e Dados"
+}
+```
+
+---
+
+<div align="center">
+
+*"De analista de logística a profissional de dados — não por acaso, mas por curiosidade persistente."*
+
+</div>
